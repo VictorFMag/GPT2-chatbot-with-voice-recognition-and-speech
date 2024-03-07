@@ -1,0 +1,1 @@
+Put your .txt training files in this folder. The model will be trained with every .txt file in here.

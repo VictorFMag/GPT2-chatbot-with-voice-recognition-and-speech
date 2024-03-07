@@ -1,0 +1,1 @@
+This folder contains the training cache of the model, so don't worry about it.

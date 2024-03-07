@@ -1,0 +1,1 @@
+This folder contains the response generated audio that the model will speak.
