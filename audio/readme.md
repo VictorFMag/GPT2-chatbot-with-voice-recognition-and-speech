@@ -1,1 +1,2 @@
-This folder contains the response generated audio that the model will speak.
+This folder contains the audio generated from the response of the model.<br>
+Essa pasta contém o áudio gerado a partir da resposta do modelo.
