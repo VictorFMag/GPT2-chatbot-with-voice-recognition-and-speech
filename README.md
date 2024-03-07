@@ -16,5 +16,5 @@ Abra o arquivo Chatbot.ipynb e execute todas as células de código anteriores a
 2) Pergunta em texto e resposta em áudio<br>
 3) Pergunta e resposta em áudio (necessário microfone)<br>
 <hr>
-##Obs:
+## Obs:
 Esse projeto faz parte do meu aprendizado sobre LLMs - Large Language Models, portanto, podem surgir falhas ou melhorias futuras.
