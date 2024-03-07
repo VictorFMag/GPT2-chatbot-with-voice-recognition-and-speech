@@ -17,4 +17,5 @@ Abra o arquivo Chatbot.ipynb e execute todas as células de código anteriores a
 3) Pergunta e resposta em áudio (necessário microfone)<br>
 <hr>
 <h4>Obs:</h4>
-Esse projeto faz parte do meu aprendizado sobre LLMs - Large Language Models, portanto, podem surgir falhas ou melhorias futuras.
+Esse projeto faz parte do meu aprendizado sobre LLMs - Large Language Models, portanto, podem surgir falhas ou melhorias futuras.<br>
+Atualmente, o treinamento do modelo não está funcionando corretamente, um problema que ainda estou tentando corrigir.
