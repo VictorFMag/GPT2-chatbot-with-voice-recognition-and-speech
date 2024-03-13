@@ -18,4 +18,9 @@ Abra o arquivo Chatbot.ipynb e execute todas as células de código anteriores a
 <hr>
 <h4>Obs:</h4>
 Esse projeto faz parte do meu aprendizado sobre LLMs - Large Language Models, portanto, podem surgir falhas ou melhorias futuras.<br>
-Atualmente, o treinamento do modelo não está funcionando corretamente, um problema que ainda estou tentando corrigir.
+Atualmente, o treinamento do modelo não está funcionando corretamente, um problema que ainda estou tentando corrigir.<br>
+<hr>
+<h3>A Fazer:</h3>
+1) Corrigir o erro de treinamento do modelo;<br>
+2) Criar uma interface amigável;<br>
+3) Adicionar modulador de voz à resposta do modelo.
